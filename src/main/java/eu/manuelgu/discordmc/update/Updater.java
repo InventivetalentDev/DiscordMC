@@ -22,7 +22,7 @@ import java.util.UUID;
 
 public class Updater {
     public final static String PREFIX = ChatColor.GREEN + "" + ChatColor.BOLD + "[DiscordMC] " + ChatColor.GREEN;
-    private final static String URL = "http://api.spiget.org/v1/resources/";
+    private final static String URL = "http://api.spiget.org/v2/resources/";
     private final static int PLUGIN = 17067;
     private final static String LATEST_VERSION = "/versions/latest";
 
